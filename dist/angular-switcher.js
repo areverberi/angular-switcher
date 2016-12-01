@@ -74,3 +74,5 @@
 		}]);
 	
 })(window.angular);
+
+module.exports='switcher';
